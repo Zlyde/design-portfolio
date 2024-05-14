@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@700&family=Old+Standard+TT&family=Roboto:wght@100&display=swap');
+
+$old-font: 'Old Standard TT', serif;
+$modern-font: 'Roboto', sans-serif;
+$worst-font: 'Edu TAS Beginner', cursive;
+
+
+.old-fashioned {
+    font-family: $old-font;
+}
+
+.modern {
+    font-family: $modern-font;
+}
+
+.worst-ever {
+    font-family: $worst-font;
+}

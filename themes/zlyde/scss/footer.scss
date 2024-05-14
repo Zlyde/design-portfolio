@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #222;
+    font-size: 2em;
+    background-color: $background-color-main;
+    flex: 0 0 auto;
+}
+
+.social a {
+    text-decoration: none;
+}

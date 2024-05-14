@@ -1,0 +1,9 @@
+.header {
+    background-color: $background-color;
+    flex: 0 0 auto;
+}
+
+.header, .site-header {
+    display: flex;
+    justify-content: space-between;
+}

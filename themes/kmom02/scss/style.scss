@@ -1,0 +1,16 @@
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+
+@import 'typography';
+@import 'test';
+
+@import 'blockquotes';
+@import 'code';
+
+body {
+    background-color: $background-color;
+}
+
+* {
+    color: $font-color;
+}
