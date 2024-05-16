@@ -1,7 +1,7 @@
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 1px solid #222;
+    border-top: 1px solid $background-color-body;
     font-size: 2em;
     background-color: $background-color-main;
     flex: 0 0 auto;

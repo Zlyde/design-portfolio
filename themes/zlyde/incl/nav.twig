@@ -1,10 +1,15 @@
 <div class="header" role="banner">
     <div class="site-header">
-        {% if pages["_meta"].meta.logo %}
-        <div class="logo">
-            <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" alt="" />
-        </div>
+        {% if config.session.theme == "dark" %}
+            <div class="logo">
+                <img src="assets/img/hxh_dark.jpg" width="200" alt="" />
+            </div>
+        {% else %}
+            <div class="logo">
+                <img src="assets/img/hxh.jpg" alt="" />
+            </div>
         {% endif %}
+
         <div class="title" {{ pages["_meta"].meta.tagline ? ' class="tagline"' }}>
             <a href="{{ base_url }}">
                 <h1>{{ site_title }}</h1>

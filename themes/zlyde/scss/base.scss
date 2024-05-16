@@ -9,7 +9,7 @@
 
 body {
     height: 100%;
-    background-color: $background-color;
+    background-color: $background-color-body;
 }
 
 .main {
@@ -18,4 +18,10 @@ body {
     margin: 0 auto;
     padding: 1em;
     background-color: $background-color-main;
+}
+
+img {
+    height: 100%;
+    width: auto;
+    display: block;
 }
