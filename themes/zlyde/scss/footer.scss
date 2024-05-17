@@ -1,9 +1,10 @@
 .footer {
+    bottom: 0;
     display: flex;
     justify-content: space-between;
-    border-top: 1px solid $background-color-body;
+    border-top: 1px solid $accent-color;
     font-size: 2em;
-    background-color: $background-color-main;
+    background-color: $background-color;
     flex: 0 0 auto;
 }
 
