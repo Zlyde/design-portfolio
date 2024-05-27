@@ -24,3 +24,11 @@ img {
     height: 100%;
     display: block;
 }
+
+img:not([alt]) {
+    outline: 4px rgb(255, 0, 0) dashed !important;
+}
+
+img, embed, object, video {
+    max-width: 100%;
+}
