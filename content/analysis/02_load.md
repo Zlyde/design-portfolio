@@ -7,8 +7,6 @@ på mobil och dator, och eventuella åtgärder som gjorts/kan göras för att ö
 Urval
 -----------------------
 
-Berätta vilka webbplatser du valt att undersöka och varför eller hur du gick tillväga när du gjorde ditt urval.
-
 Jag har valt tre olika bloggar för att jämföra. Detta urval gjorde jag för att se om åtgärder gjorts för att öka
 laddningshastigheter för dessa bloggar. Första sidan är en mode-blogg, andra bloggen handlar om trädgård,
 och tredje är en blogg för fans av Margit Sandemos verk "Sagan om Isfolket".
@@ -51,15 +49,11 @@ https://isfolket.blogg.se/
 Metod
 -----------------------
 
-Berätta kort om din "metod", hur du gör för att utföra undersökningen. Berätta om du använder något speciellt verktyg.
-
 Jag använde Google's verktyg "https://pagespeed.web.dev/" för att analysera resultaten av hastighetsmätningar på sidorna.
 Sedan skapade jag ett spreadsheet i Google Docs som jag presenterar nedan.
 
 Resultat
 -----------------------
-
-Dokumentera dina resultat från din studie. Berätta vad du kom fram till, vilka resultat du hittade och observerade.
 
 Nedan följer resultaten jag noterade under undersökningen. Första bilden är spreadsheet av datan från mätverktyget pagespeed,
 och andra bilden är datan jag mätte från fliken Network i devtools i webbläsaren. Dessa resultat är genomsnittet av tre
@@ -77,8 +71,6 @@ separata mätningar av varje sida.
 
 Analys
 -----------------------
-
-Diskutera och analysera de resultaten du fann.
 
 Sammanfattningen av resultaten är att ingen av hemsidorna från urvalet är särskilt optimerade för mobil prestanda. Bloggen om Isfolket fick bäst betyg 38 enligt
 verktyget pagespeed för mobil, där de andra sidorna låg väldigt lågt. För dator däremot hade de två andra sidorna betydligt högre betyg med annawii på betyget 73.
@@ -104,8 +96,6 @@ medan den enda anledningen till varför den sista, isfolket.blogg.se, inte gjord
 
 Referenser
 -----------------------
-
-Ange de eventuella referenser du använder dig av, om några.
 
 https://moz.com/learn/seo/page-speed
 
