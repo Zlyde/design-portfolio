@@ -59,14 +59,19 @@ Nedan följer resultaten jag noterade under undersökningen. Första bilden är 
 och andra bilden är datan jag mätte från fliken Network i devtools i webbläsaren. Dessa resultat är genomsnittet av tre
 separata mätningar av varje sida.
 
-<h4>Prestanda Google Pagespeed</h4>
-<div class="embed-container">
-    <iframe style="clip-path: inset(0 0 50% 0)" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKB-YunmUDJ6X3slmevdIi7BS5Rn6tG5IR3e9YmH8VtE5wJnXrJuvLJhOpuCGNBHBD9KmYecg8lwTb/pubhtml?widget=true&amp;headers=false"></iframe>
-</div>
-
-<h4>Laddningstid Devtools Network</h4>
-<div class="embed-container">
-    <iframe style="clip-path: inset(0 0 50% 0)" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREx6Y1ISCWllfRVdhEtpc-1A1v2SN9FwnUL1BDD_x_ffprSd_3p4CGwOx1IWbhb-pX5_Wus9oeNlzK/pubhtml?widget=true&amp;headers=false"></iframe>
+<div class="landingpage">
+    <div class="box3">
+        Prestanda Google Pagespeed
+        <div class="embed-container">
+            <iframe width="100%" height="824" title="Pagespeed Prestanda" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKB-YunmUDJ6X3slmevdIi7BS5Rn6tG5IR3e9YmH8VtE5wJnXrJuvLJhOpuCGNBHBD9KmYecg8lwTb/pubhtml?widget=true&amp;headers=false"></iframe>
+        </div>
+    </div>
+    <div class="box3">
+        Laddningstid Devtools Network
+        <div class="embed-container">
+            <iframe title="Devtools Laddningstid" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREx6Y1ISCWllfRVdhEtpc-1A1v2SN9FwnUL1BDD_x_ffprSd_3p4CGwOx1IWbhb-pX5_Wus9oeNlzK/pubhtml?widget=true&amp;headers=false"></iframe>
+        </div>
+    </div>
 </div>
 
 Analys
