@@ -2,11 +2,11 @@
     <div class="site-header">
         {% if config.session.theme == "dark" %}
             <div class="logo">
-                <img src="{{ base_url }}/assets/img/hxh_dark.jpg" alt="" />
+                <img src="{{ base_url }}/image/hxh_dark.jpg" alt="" />
             </div>
         {% else %}
             <div class="logo">
-                <img src="{{ base_url }}/assets/img/hxh.jpg" alt="" />
+                <img src="{{ base_url }}/image/hxh.jpg" alt="" />
             </div>
         {% endif %}
 
@@ -17,7 +17,7 @@
             </a>
         </div>
         <a class="nav-toggle" id="nav-toggle" title="Toggle Menu" role="button" aria-controls="nav" aria-expanded="false"
-            tabindex="1">
+            tabindex="0">
             <i class="fa fa-bars" aria-hidden="true" id="toggler"></i>
             <span class="sr-only">Toggle Menu</span>
         </a>

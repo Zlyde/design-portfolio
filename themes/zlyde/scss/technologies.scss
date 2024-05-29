@@ -32,9 +32,9 @@
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1090px) {
     .box1, .box2, .box3 {
-        grid-column: span 1;
+        grid-column: span 3;
     }
 }
 
@@ -52,6 +52,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
 }
 
 @media (max-width: 900px) {

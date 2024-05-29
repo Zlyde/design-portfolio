@@ -32,3 +32,15 @@ img:not([alt]) {
 img, embed, object, video {
     max-width: 100%;
 }
+
+.me {
+    float: left;
+    margin-right: 1em;
+}
+
+@media (max-width: 1180px) {
+    .me {
+        float: none;
+        margin-bottom: 1em;
+    }
+}
